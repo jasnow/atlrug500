@@ -28,11 +28,10 @@ Atlrug4::Application.configure do
   config.middleware.insert_after(ActionDispatch::Static, Rack::LiveReload)
 
   config.middleware.insert_before(
-    Rack::Lock, Rack::LiveReload,
-    :min_delay => 500,
-    :max_delay => 10000,
-    :port => 56789,
-    :host => 'localhost', :ignore => [ %r{dont/modify\.html$} ]
+    Rack::Runtime, Rack::LiveReload,
+    min_delay: 500,
+    max_delay: 10_000,
+    port: 56_789,
+    host: 'localhost', ignore: [%r{dont/modify\.html$}]
   )
-
 end
