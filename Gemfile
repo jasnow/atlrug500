@@ -8,11 +8,6 @@ gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
 gem 'simple_form',     github: 'plataformatec/simple_form'
 gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
 
-#gem "sprockets-rails", github: 'rails/sprockets-rails'
-#gem "sprockets",       github: 'rails/sprockets'
-#gem "oauth2",          github: 'twalpole/oauth2', branch: 'rack_master'
-#gem "omniauth-oauth2", "~> 1.2.0"
-
 ruby '2.2.3'
 
 gem 'omniauth-github'
