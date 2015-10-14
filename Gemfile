@@ -66,6 +66,12 @@ group :development, :test do
   gem 'sqlite3'
 
   # TESTING/ANALYSIS
+  # Rails 5
+  # gem 'rspec-rails', github: 'rspec/rspec-rails', branch: 'rails-5-support'
+  # gem 'rspec-core'
+  # gem 'rspec-mocks'
+  # gem 'rspec-support'
+  # gem 'rspec-expectations'
 
   gem 'rspec-rails'
   gem 'email_spec'
