@@ -7,8 +7,9 @@ gem 'rack',            github: 'rack/rack'
 gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
 gem 'simple_form',     github: 'plataformatec/simple_form'
 gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
+gem 'capybara',        github: 'jnicklas/capybara', branch: 'master'
 
-ruby '2.2.3'
+ruby '2.3.0'
 
 gem 'omniauth-github'
 gem 'octokit'
@@ -76,7 +77,6 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'email_spec'
 
-  gem 'capybara'
   gem 'capybara-screenshot'
 
   gem 'autotest-rails'
