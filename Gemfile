@@ -1,9 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails',           github: 'rails/rails', branch: 'master'
-gem 'arel',            github: 'rails/arel'
+gem 'rails', '5.0.0.beta1'
 gem 'turbolinks',      github: 'rails/turbolinks'
-gem 'rack',            github: 'rack/rack'
 gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
 gem 'simple_form',     github: 'plataformatec/simple_form'
 gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
