@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 52dab1b9e7b18547636ebdd0aabd5b24ac452f1d
+  revision: dcefe3e95ddade943658b74b21780a80237477f6
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -27,7 +27,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 89fedb4dac1315c271d782290a29c4cd94035184
+  revision: 47fd7c95555cb1c6e05768cd1b9ee38ad5cf9d1f
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
