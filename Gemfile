@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.0.beta1'
+gem 'rails',           github: 'rails/rails'
 gem 'turbolinks',      github: 'rails/turbolinks'
 gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
 gem 'simple_form',     github: 'plataformatec/simple_form'
