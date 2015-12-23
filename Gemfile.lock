@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 52dab1b9e7b18547636ebdd0aabd5b24ac452f1d
+  revision: 343f851ee09e5ee9f02be2a57f6eb97082b40081
   branch: master
   specs:
     capybara (2.6.0.dev)
