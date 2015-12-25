@@ -66,13 +66,12 @@ group :development, :test do
 
   # TESTING/ANALYSIS
   # Rails 5
-  # gem 'rspec-rails', github: 'rspec/rspec-rails', branch: 'rails-5-support'
-  # gem 'rspec-core'
-  # gem 'rspec-mocks'
-  # gem 'rspec-support'
-  # gem 'rspec-expectations'
+  gem 'rspec-rails'       , github: 'rspec/rspec-rails'
+  gem 'rspec-core'        , github: 'rspec/rspec-core'
+  gem 'rspec-expectations', github: 'rspec/rspec-expectations'
+  gem 'rspec-mocks'       , github: 'rspec/rspec-mocks'
+  gem 'rspec-support'     , github: 'rspec/rspec-support'
 
-  gem 'rspec-rails'
   gem 'email_spec'
 
   gem 'capybara-screenshot'
