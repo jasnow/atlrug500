@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 343f851ee09e5ee9f02be2a57f6eb97082b40081
+  revision: 957c35f580b68e8a140b5bbe7818fdcf06bc4521
   branch: master
   specs:
     capybara (2.6.0.dev)
@@ -27,7 +27,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c56e56773815221ef1fbd127f949c3e5207ea471
+  revision: 929c61573e289e432a4e571ae157248745ae2eae
   specs:
     actioncable (5.0.0.beta1)
       actionpack (= 5.0.0.beta1)
@@ -94,14 +94,14 @@ GIT
 
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: ad583843fdaa0c1f61462a346a495981ca314460
+  revision: 37e097d24763106a7a3f06c5ec0b6242cff18ea2
   specs:
     turbolinks (3.0.0)
       coffee-rails
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: 8cb45cc8779d09b13e054ecb94c911b7e14f7fde
+  revision: a575b9b740a9af13c9760751aa3da09ffda30db5
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -501,7 +501,7 @@ GEM
     rainbow (2.0.0)
     raindrops (0.15.0)
     rake (10.4.2)
-    rb-fsevent (0.9.6)
+    rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     redis (3.2.2)
