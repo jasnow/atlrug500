@@ -34,7 +34,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: a575b9b740a9af13c9760751aa3da09ffda30db5
+  revision: bb214a2d472f06b36942daac6c2850ce6029d08b
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -57,7 +57,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 7f2b695a2e70af1aa4f78346143e71e926bbccd7
+  revision: 8417d44bfb90643062d49ef165d3abeb4458ce00
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -70,7 +70,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: b0ff0f6e157288c33f8dc6d57f4ee157d43152fa
+  revision: e0d3aef3b2765678ef323de499255e2b0afd7eb0
   specs:
     rspec-support (3.5.0.pre)
 
@@ -500,7 +500,7 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     redis (3.2.2)
-    reek (3.7.1)
+    reek (3.8.1)
       codeclimate-engine-rb (~> 0.1.0)
       parser (~> 2.2, >= 2.2.2.5)
       private_attr (~> 1.1)
@@ -514,11 +514,11 @@ GEM
     ruby_gntp (0.3.4)
     ruby_parser (3.7.2)
       sexp_processor (~> 4.1)
-    rubycritic (2.4.0)
+    rubycritic (2.4.1)
       flay (= 2.6.1)
       flog (= 4.3.2)
       parser (>= 2.2.0, < 3.0)
-      reek (= 3.7.1)
+      reek (= 3.8.1)
       virtus (~> 1.0)
     sass (3.4.20)
     sass-rails (5.0.4)
