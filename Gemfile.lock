@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: git://github.com/plataformatec/simple_form.git
-  revision: 347d8a92a4d6a0b689d0fefb21950d30923e859a
+  revision: 1018e93d11a046857f297cf7769b1f456d52d45b
   specs:
     simple_form (3.2.1)
       actionpack (> 4, < 5.1)
@@ -34,7 +34,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: 360112df3ff826a84119d93e79deae2c03d3b655
+  revision: e05932768e305d13669bfa2475db74b805cda097
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
@@ -57,7 +57,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 8417d44bfb90643062d49ef165d3abeb4458ce00
+  revision: c9fbfeea8751011f05146d9c9a4be4b038058284
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -558,7 +558,7 @@ GEM
       ref
     thor (0.19.1)
     thread_safe (0.3.5)
-    tilt (2.0.1)
+    tilt (2.0.2)
     timers (4.1.1)
       hitimes
     travis (1.8.0)
