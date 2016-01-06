@@ -19,7 +19,7 @@ GIT
 
 GIT
   remote: git://github.com/plataformatec/simple_form.git
-  revision: 1018e93d11a046857f297cf7769b1f456d52d45b
+  revision: ac63da0f0b38df82385493f25f649e320b0acb4a
   specs:
     simple_form (3.2.1)
       actionpack (> 4, < 5.1)
@@ -41,7 +41,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-expectations.git
-  revision: 87376eed1f580682c86ea88448ab0411be238c07
+  revision: b8b2935d6e1fd3855d7517e24b6cb804b7bb20dc
   specs:
     rspec-expectations (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -49,7 +49,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-mocks.git
-  revision: 29269d483f39ce78f3614a16b2e00a2a496a482c
+  revision: 7dc7afc21f248582934becd23a97f9b1c405dd66
   specs:
     rspec-mocks (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -57,7 +57,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: c9fbfeea8751011f05146d9c9a4be4b038058284
+  revision: 9bcc8a00bd3bbe981f37e0ba4334d52ca9ade616
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -70,7 +70,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: 885e37c525b68ccca8351fe648a7826f34630318
+  revision: 87c57da0804e3fc27bbb3371a475389c44e64a67
   specs:
     rspec-support (3.5.0.pre)
 
@@ -187,7 +187,7 @@ GEM
       timers (>= 4.1.1)
     celluloid-supervision (0.20.5)
       timers (>= 4.1.1)
-    childprocess (0.5.8)
+    childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
     codeclimate-engine-rb (0.1.0)
       virtus (~> 1.0)
@@ -606,7 +606,7 @@ GEM
     websocket-extensions (0.1.2)
     xpath (2.0.0)
       nokogiri (~> 1.3)
-    yt (0.25.16)
+    yt (0.25.17)
       activesupport
     zonebie (0.5.1)
 
