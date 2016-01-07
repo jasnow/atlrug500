@@ -34,14 +34,14 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-core.git
-  revision: e05932768e305d13669bfa2475db74b805cda097
+  revision: fdd43b36147838e1d758dafd6e048cf76f7229df
   specs:
     rspec-core (3.5.0.pre)
       rspec-support (= 3.5.0.pre)
 
 GIT
   remote: git://github.com/rspec/rspec-expectations.git
-  revision: b8b2935d6e1fd3855d7517e24b6cb804b7bb20dc
+  revision: d17110bdd0dca2e8daa3339c0fcfafcc5dc31a9c
   specs:
     rspec-expectations (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -49,7 +49,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-mocks.git
-  revision: 7dc7afc21f248582934becd23a97f9b1c405dd66
+  revision: 7369e6b949585114bc1e9f20885d64a65f95cc31
   specs:
     rspec-mocks (3.5.0.pre)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -57,7 +57,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-rails.git
-  revision: 9bcc8a00bd3bbe981f37e0ba4334d52ca9ade616
+  revision: 9eee11a84c6740bd7551c3ad5d8057512d91ea92
   specs:
     rspec-rails (3.5.0.pre)
       actionpack (>= 3.0)
@@ -443,9 +443,9 @@ GEM
     pg (0.18.4)
     private_attr (1.1.0)
     procto (0.0.2)
-    pry (0.9.12.6)
-      coderay (~> 1.0)
-      method_source (~> 0.8)
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
       slop (~> 3.4)
     ptools (1.3.3)
     pusher-client (0.6.2)
@@ -561,15 +561,13 @@ GEM
     tilt (2.0.2)
     timers (4.1.1)
       hitimes
-    travis (1.8.0)
-      addressable (~> 2.3)
+    travis (1.8.1)
       backports
       faraday (~> 0.9)
       faraday_middleware (~> 0.9, >= 0.9.1)
       gh (~> 0.13)
       highline (~> 1.6)
       launchy (~> 2.1)
-      pry (~> 0.9, < 0.10)
       pusher-client (~> 0.4)
       typhoeus (~> 0.6, >= 0.6.8)
     typhoeus (0.8.0)
