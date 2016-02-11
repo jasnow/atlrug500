@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.0.beta1'
-gem 'turbolinks',      github: 'rails/turbolinks'
+gem 'rails',      '5.0.0.beta2'
+gem 'turbolinks', '5.0.0.beta1'
 gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
 gem 'simple_form',     github: 'plataformatec/simple_form'
 gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
@@ -65,12 +65,7 @@ group :development, :test do
   gem 'sqlite3'
 
   # TESTING/ANALYSIS
-  # Rails 5
-  gem 'rspec-rails'       , github: 'rspec/rspec-rails'
-  gem 'rspec-core'        , github: 'rspec/rspec-core'
-  gem 'rspec-expectations', github: 'rspec/rspec-expectations'
-  gem 'rspec-mocks'       , github: 'rspec/rspec-mocks'
-  gem 'rspec-support'     , github: 'rspec/rspec-support'
+  gem 'rspec-rails', '3.5.0.beta1'
 
   gem 'email_spec'
 
