@@ -37,8 +37,6 @@ bin/scss
 bin/slimrb
 bin/unit_diff
 bin/zentest
-.gitignore
-Gemfile.lock
 
 app/.DS_Store
 
