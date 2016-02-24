@@ -506,7 +506,7 @@ GEM
       launchy (~> 2.1)
       pusher-client (~> 0.4)
       typhoeus (~> 0.6, >= 0.6.8)
-    turbolinks (5.0.0.beta1)
+    turbolinks (5.0.0.beta2)
       turbolinks-source
     turbolinks-source (5.0.0.beta2)
     typhoeus (0.8.0)
@@ -599,7 +599,7 @@ DEPENDENCIES
   sqlite3
   therubyracer
   travis
-  turbolinks (= 5.0.0.beta1)
+  turbolinks (= 5.0.0.beta2)
   tzinfo
   uglifier
   unicorn
