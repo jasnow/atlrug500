@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: e36f2a22268b7fc6d3a7933dd4a76f9416c486c5
+  revision: 1abfda0ac1a8f836f4969bcf1d5194626c7ff02d
   branch: master
   specs:
     capybara (2.7.0.dev)
@@ -158,7 +158,7 @@ GEM
     data_objects (0.10.17)
       addressable (~> 2.1)
     database_cleaner (1.5.1)
-    dawnscanner (1.6.1)
+    dawnscanner (1.6.2)
       cvss
       data_mapper
       dm-sqlite-adapter
