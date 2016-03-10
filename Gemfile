@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'rake', '10.5.0' # LOCKED DOWN
+
 gem 'rails',      '5.0.0.beta3'
 gem 'turbolinks', '5.0.0.beta2'
 gem 'rails-footnotes', github: 'josevalim/rails-footnotes'
