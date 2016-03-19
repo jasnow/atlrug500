@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: 2a51b817b355f6c1a5e95a471a87f1a492562e55
+  revision: 5695789460416b3ce8e21a14db505c83d2e38170
   branch: master
   specs:
     capybara (2.7.0.dev)
@@ -126,7 +126,7 @@ GEM
     coffee-script-source (1.10.0)
     colorize (0.7.7)
     concurrent-ruby (1.0.1)
-    cucumber (2.3.2)
+    cucumber (2.3.3)
       builder (>= 2.1.2)
       cucumber-core (~> 1.4.0)
       cucumber-wire (~> 0.0.1)
