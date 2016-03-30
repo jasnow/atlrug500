@@ -107,7 +107,7 @@ GEM
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
     builder (3.2.2)
-    capybara-screenshot (1.0.11)
+    capybara-screenshot (1.0.12)
       capybara (>= 1.0, < 3)
       launchy
     childprocess (0.5.9)
