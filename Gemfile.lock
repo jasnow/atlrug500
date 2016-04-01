@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: c44f50e68d0d098633bb6565fb7628c7ea182563
+  revision: 4e23b61041956b56334e8469e267379d42492cba
   branch: master
   specs:
     capybara (2.7.0.dev)
@@ -508,7 +508,7 @@ GEM
       typhoeus (~> 0.6, >= 0.6.8)
     turbolinks (5.0.0.beta2)
       turbolinks-source
-    turbolinks-source (5.0.0.beta3)
+    turbolinks-source (5.0.0.beta4)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
@@ -518,9 +518,8 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.2)
-    unicorn (5.0.1)
+    unicorn (5.1.0)
       kgio (~> 2.6)
-      rack
       raindrops (~> 0.7)
     uuidtools (2.1.5)
     virtus (1.0.5)
