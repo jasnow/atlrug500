@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jnicklas/capybara.git
-  revision: c506aad6aa733c972cd91a2fb14a81bed860fcaa
+  revision: 4be1a3126c4fbf836561f2e2ce86f02dbdb8d1c0
   branch: master
   specs:
     capybara (2.8.0.dev)
@@ -533,9 +533,9 @@ GEM
     websocket-extensions (0.1.2)
     xpath (2.0.0)
       nokogiri (~> 1.3)
-    yt (0.25.31)
+    yt (0.25.33)
       activesupport
-    zonebie (0.6.0)
+    zonebie (0.6.1)
 
 PLATFORMS
   ruby
