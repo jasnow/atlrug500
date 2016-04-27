@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails',      '5.0.0.beta3'
+gem 'rails',      '5.0.0.beta4'
 gem 'turbolinks', '5.0.0.beta2'
-gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
+gem "omniauth",   github: 'twalpole/omniauth', branch: 'rack_master'
 
 ruby '2.3.1'
 
