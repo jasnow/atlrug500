@@ -4,7 +4,7 @@ gem 'rails',      '5.0.0.beta3'
 gem 'turbolinks', '5.0.0.beta2'
 gem "omniauth",        github: 'twalpole/omniauth', branch: 'rack_master'
 
-ruby '2.3.0'
+ruby '2.3.1'
 
 gem 'simple_form'
 gem 'rails-footnotes'
