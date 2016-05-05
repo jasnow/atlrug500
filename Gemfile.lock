@@ -430,7 +430,7 @@ GEM
     rspec-support (3.5.0.beta2)
     ruby_dep (1.2.0)
     ruby_gntp (0.3.4)
-    ruby_parser (3.8.1)
+    ruby_parser (3.8.2)
       sexp_processor (~> 4.1)
     rubycritic (2.9.0)
       colorize
@@ -594,4 +594,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.12.0
+   1.12.2
