@@ -64,7 +64,7 @@ group :development, :test do
   gem 'sqlite3'
 
   # TESTING/ANALYSIS
-  gem 'rspec-rails', '3.5.0.beta2'
+  gem 'rspec-rails', '3.5.0.beta4' # for Rails 5
 
   gem 'email_spec'
 
