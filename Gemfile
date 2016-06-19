@@ -26,7 +26,7 @@ gem 'overcommit'
 gem 'jbuilder'
 
 # APP-specific gems
-gem 'rest-client', '2.0.0.rc2'
+gem 'rest-client', '2.0.0.rc4'
 gem 'hassle3'
 gem 'kgio'
 gem 'tzinfo'
