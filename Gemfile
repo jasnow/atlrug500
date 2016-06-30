@@ -1,13 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails',    '5.0.0.rc2'
-gem "omniauth", github: 'twalpole/omniauth', branch: 'rack_master'
+gem 'rails',       '5.0.0.rc2' # RAILS5
+gem "omniauth",    github: 'twalpole/omniauth', branch: 'rack_master' # RAILS5
 
 ruby '2.3.1'
 
 gem 'turbolinks'
-gem 'simple_form'
-gem 'rails-footnotes'
 gem 'omniauth-github'
 gem 'octokit'
 gem 'coffee-rails'
@@ -16,17 +14,17 @@ gem 'uglifier'
 gem 'execjs'
 gem 'therubyracer', platforms: :ruby
 gem 'bootstrap-sass'
-
 gem 'haml'
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'overcommit'
+gem 'simple_form'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder'
 
 # APP-specific gems
-gem 'rest-client', '2.0.0.rc4'
+gem 'rest-client', '2.0.0.rc4' # LOCKED DOWN
 gem 'hassle3'
 gem 'kgio'
 gem 'tzinfo'
@@ -45,9 +43,7 @@ group :development do
   gem 'binding_of_caller'
   gem 'awesome_print'
   gem 'quiet_assets'
-
   gem 'dawnscanner', require: false
-
   gem 'rubycritic', require: false
 
   # For Guard
@@ -64,13 +60,11 @@ group :development, :test do
   gem 'sqlite3'
 
   # TESTING/ANALYSIS
-  gem 'rspec-rails', '3.5.0.beta4' # for Rails 5
-
-  gem 'email_spec'
-
+  gem 'rspec-rails', '3.5.0.beta4' #RAILS5
+  gem 'rails-footnotes'
   gem 'capybara'
   gem 'capybara-screenshot'
-
+  gem 'email_spec'
   gem 'autotest-rails'
   gem 'autotest-fsevent'
   gem 'autotest-growl'
