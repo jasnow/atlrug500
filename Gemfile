@@ -1,11 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails',      '5.0.0.rc2'
-gem 'turbolinks', '5.0.0.beta2'
-gem "omniauth",   github: 'twalpole/omniauth', branch: 'rack_master'
+gem 'rails',    '5.0.0.rc2'
+gem "omniauth", github: 'twalpole/omniauth', branch: 'rack_master'
 
 ruby '2.3.1'
 
+gem 'turbolinks'
 gem 'simple_form'
 gem 'rails-footnotes'
 gem 'omniauth-github'
