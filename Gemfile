@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '5.0.2.rc1'
 gem "omniauth"
 
-ruby '2.3.3'
+ruby '2.4.0'
 
 gem 'turbolinks'
 gem 'omniauth-github'
