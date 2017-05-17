@@ -19,7 +19,7 @@ gem 'html2haml', '2.1.0' # Used by haml gem; 5/2/2017: LOCKED DOWN.
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'overcommit'
-gem 'simple_form', git: 'https://github.com/plataformatec/simple_form'
+gem 'simple_form'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder'
