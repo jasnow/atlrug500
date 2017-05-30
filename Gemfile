@@ -12,7 +12,7 @@ gem 'coffee-rails'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'execjs'
-gem 'therubyracer', platforms: :ruby
+gem 'mini_racer', platforms: :ruby
 gem 'bootstrap-sass'
 gem 'haml'
 gem 'html2haml', '2.1.0' # Used by haml gem; 5/2/2017: LOCKED DOWN.
