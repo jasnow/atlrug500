@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '5.0.5'
 
-ruby '2.4.1'
+ruby '2.4.2'
 
 gem "omniauth"
 gem 'turbolinks'
@@ -69,7 +69,7 @@ group :development, :test do
   gem 'autotest-fsevent'
   gem 'autotest-growl'
 
-  gem 'cucumber', '3.0.0.pre.2' # LOCKED DOWN
+  gem 'cucumber'
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
 
