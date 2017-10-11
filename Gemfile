@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '5.0.5'
 
-ruby '2.4.2'
+ruby '2.5.0'
 
 gem "omniauth"
 gem 'turbolinks'
