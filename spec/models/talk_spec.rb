@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Talk, type: :model do
-  let(:talk) { FactoryGirl.build(:talk) }
+  let(:talk) { FactoryBot.build(:talk) }
   subject    { talk }
 
   context 'validations' do
@@ -53,9 +53,9 @@ describe Talk, type: :model do
 
   describe '.pending' do
     it 'returns only pending talks' do
-      approved = [FactoryGirl.create(:talk, approved: true),
-                  FactoryGirl.create(:talk, approved: true)]
-      2.times { FactoryGirl.create(:talk) }
+      approved = [FactoryBot.create(:talk, approved: true),
+                  FactoryBot.create(:talk, approved: true)]
+      2.times { FactoryBot.create(:talk) }
 
       expect(Talk.pending.size).to eq(2)
       approved.each do |talk|
