@@ -315,7 +315,7 @@ GEM
     mini_portile2 (2.3.0)
     mini_racer (0.1.15)
       libv8 (~> 6.3)
-    minitest (5.11.2)
+    minitest (5.11.3)
     multi_json (1.13.1)
     multi_test (0.1.2)
     multi_xml (0.6.0)
