@@ -461,7 +461,7 @@ GEM
       faraday (~> 0.8, < 1.0)
     sexp_processor (4.10.1)
     shellany (0.0.1)
-    simple_form (3.5.0)
+    simple_form (3.5.1)
       actionpack (> 4, < 5.2)
       activemodel (> 4, < 5.2)
     simplecov (0.15.1)
