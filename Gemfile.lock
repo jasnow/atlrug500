@@ -352,7 +352,7 @@ GEM
       iniparse (~> 1.4)
     parser (2.4.0.2)
       ast (~> 2.3)
-    path_expander (1.0.2)
+    path_expander (1.0.3)
     pg (1.0.0)
     pry (0.11.3)
       coderay (~> 1.1.0)
