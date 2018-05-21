@@ -109,7 +109,7 @@ GEM
       backports (>= 3.8.0)
       cucumber-tag_expressions (~> 1.1.0)
       gherkin (>= 5.0.0)
-    cucumber-expressions (5.0.17)
+    cucumber-expressions (5.0.18)
     cucumber-rails (1.6.0)
       capybara (>= 1.1.2, < 4)
       cucumber (>= 3.0.2, < 4)
