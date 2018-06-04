@@ -216,7 +216,7 @@ GEM
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
     fastercsv (1.5.5)
-    ffi (1.9.24)
+    ffi (1.9.25)
     flay (2.12.0)
       erubis (~> 2.7.0)
       path_expander (~> 1.0)
