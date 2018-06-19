@@ -471,7 +471,7 @@ GEM
     simplecov-json (0.2)
       json
       simplecov
-    sprockets (3.7.1)
+    sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.2.1)
