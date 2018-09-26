@@ -252,9 +252,9 @@ GEM
       haml
       rack
     highline (1.7.10)
-    html2haml (2.1.0)
+    html2haml (2.2.0)
       erubis (~> 2.7.0)
-      haml (~> 4.0)
+      haml (>= 4.0, < 6)
       nokogiri (>= 1.6.0)
       ruby_parser (~> 3.5)
     htmlentities (4.3.4)
@@ -556,10 +556,10 @@ DEPENDENCIES
   factory_bot_rails
   guard
   guard-livereload
-  haml
+  haml (= 4.0.7)
   haml-rails
   hassle3
-  html2haml (= 2.1.0)
+  html2haml
   jbuilder
   jquery-rails
   kgio
