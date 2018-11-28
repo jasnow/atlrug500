@@ -89,6 +89,7 @@ group :development, :test do
   gem 'dotenv-rails'
 
   gem 'rubocop-rspec'
+  gem 'rubocop', '0.59.2' # 11/28/2018: ADDED AND DOWNLOADED
 end
 
 group :production do

@@ -380,16 +380,16 @@ GEM
       rspec-mocks (~> 3.8.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    rubocop (0.60.0)
+    rubocop (0.59.2)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
       powerpack (~> 0.1)
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
-      unicode-display_width (~> 1.4.0)
-    rubocop-rspec (1.30.1)
-      rubocop (>= 0.60.0)
+      unicode-display_width (~> 1.0, >= 1.0.1)
+    rubocop-rspec (1.30.0)
+      rubocop (>= 0.58.0)
     ruby-progressbar (1.10.0)
     ruby_dep (1.5.0)
     ruby_gntp (0.3.4)
@@ -542,6 +542,7 @@ DEPENDENCIES
   rb-inotify
   rest-client
   rspec-rails
+  rubocop (= 0.59.2)
   rubocop-rspec
   ruby_gntp
   rubycritic
@@ -562,4 +563,4 @@ RUBY VERSION
    ruby 2.6.0p-1
 
 BUNDLED WITH
-   1.16.6
+   1.17.1
