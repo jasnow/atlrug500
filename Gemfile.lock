@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ZenTest (4.6.0)
     actioncable (5.1.6.1)
       actionpack (= 5.1.6.1)
       nio4r (~> 2.0)
@@ -46,11 +45,6 @@ GEM
     ast (2.4.0)
     autoprefixer-rails (9.4.3)
       execjs
-    autotest-fsevent (0.2.14)
-      sys-uname
-    autotest-growl (0.2.16)
-    autotest-rails (4.2.1)
-      ZenTest (~> 4.5)
     awesome_print (1.8.0)
     axiom-types (0.1.1)
       descendants_tracker (~> 0.0.4)
@@ -498,9 +492,6 @@ PLATFORMS
 
 DEPENDENCIES
   actionpack-action_caching
-  autotest-fsevent
-  autotest-growl
-  autotest-rails
   awesome_print
   backports
   better_errors

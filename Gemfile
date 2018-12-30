@@ -65,10 +65,6 @@ group :development, :test do
   gem 'capybara'
   gem 'capybara-screenshot'
   gem 'email_spec'
-  gem 'autotest-rails'
-  gem 'autotest-fsevent'
-  gem 'autotest-growl'
-
   gem 'cucumber'
   gem 'cucumber-rails', require: false
   gem 'database_cleaner'
