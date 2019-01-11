@@ -176,7 +176,7 @@ GEM
       net-http-persistent (~> 2.9)
       net-http-pipeline
     gherkin (5.1.0)
-    globalid (0.4.1)
+    globalid (0.4.2)
       activesupport (>= 4.2.0)
     guard (2.15.0)
       formatador (>= 0.2.4)
