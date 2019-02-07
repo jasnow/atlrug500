@@ -57,7 +57,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.13' # 2/7/2019: LOCKED DOWN
 
   # TESTING/ANALYSIS
   gem 'rspec-rails'

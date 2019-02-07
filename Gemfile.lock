@@ -544,7 +544,7 @@ DEPENDENCIES
   simple_form
   simplecov
   simplecov-json
-  sqlite3
+  sqlite3 (= 1.3.13)
   travis
   turbolinks
   tzinfo
