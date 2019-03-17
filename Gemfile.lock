@@ -111,7 +111,7 @@ GEM
     cucumber-tag_expressions (1.1.1)
     cucumber-wire (0.0.1)
     cvss (0.99.0)
-    dalli (2.7.9)
+    dalli (2.7.10)
     database_cleaner (1.7.0)
     dawnscanner (1.6.9)
       cvss
