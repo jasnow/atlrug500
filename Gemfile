@@ -83,9 +83,6 @@ group :development, :test do
 
   # This loads environment variables from rails_root/.env if that file exists.
   gem 'dotenv-rails'
-
-  gem 'rubocop-rspec'
-  gem 'rubocop'
 end
 
 group :production do
