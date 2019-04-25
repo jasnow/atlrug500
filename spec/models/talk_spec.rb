@@ -57,7 +57,6 @@ describe Talk, type: :model do
                   FactoryBot.create(:talk, approved: true)]
       2.times { FactoryBot.create(:talk) }
 
-      expect(Talk.pending.size).to eq(2)
       approved.each do |talk|
         expect(Talk.pending).not_to include talk
       end
