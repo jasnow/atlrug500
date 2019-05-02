@@ -8,7 +8,6 @@ gem "omniauth"
 gem 'turbolinks'
 gem 'omniauth-github'
 gem 'octokit'
-gem 'coffee-rails'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'execjs'

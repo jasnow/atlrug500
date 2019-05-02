@@ -47,7 +47,7 @@ Realized that the Twitter Bootstrap code maybe be involved too and I did
 not port that part. I created a separate Github issue (#18) for that work.
 
 These are the files with "bootstrap" in the filename:
- * app/assets/javascripts/bootstrap.js.coffee
+ * app/assets/javascripts/bootstrap.js
  * app/assets/stylesheets/bootstrap_and_overrides.css.less
  * app/assets/javascripts/application.js (1 new line/BOOTSTRAP)
  * config/locales/en.bootstrap.yml (when you install Twitter bootstrap
