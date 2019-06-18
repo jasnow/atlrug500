@@ -8,7 +8,7 @@ gem "omniauth"
 gem 'turbolinks'
 gem 'omniauth-github'
 gem 'octokit'
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'uglifier'
 gem 'execjs'
 gem 'mini_racer', platforms: :ruby
