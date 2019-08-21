@@ -27,12 +27,12 @@ Feature: Visit Web Site
     Then I should see "Mandrill"
 ## MIDDLE/RIGHT
 
-  Scenario: Check "Go to Meetings" Link
-    Given I go to the home page
-    When I follow "Go to Meetings"
-    Then I should see "Monthly Meetup"
-    Then I should see "Future Meetings"
-    Then I should see "See more on Meetup.com/atlantaruby"
+#  Scenario: Check "Go to Meetings" Link
+#    Given I go to the home page
+#    When I follow "Go to Meetings"
+#    Then I should see "Monthly Meetup"
+#    Then I should see "Future Meetings"
+#    Then I should see "See more on Meetup.com/atlantaruby"
 
   Scenario: Check "Learn Ruby" Link
     Given I go to the home page
