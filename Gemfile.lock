@@ -415,7 +415,7 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.1)
-    sys-uname (1.0.4)
+    sys-uname (1.1.0)
       ffi (>= 1.0.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
