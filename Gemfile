@@ -59,7 +59,7 @@ group :development, :test do
   gem 'sqlite3'
 
   # TESTING/ANALYSIS
-  gem 'rspec-rails', '4.0.0.beta2' # 4/26/2019: LOCKED DOWN
+  gem 'rspec-rails', '4.0.0.beta3' # 4/26/2019: LOCKED DOWN
   gem 'rails-footnotes'
   gem 'capybara'
   gem 'capybara-screenshot'
