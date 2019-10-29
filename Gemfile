@@ -13,7 +13,6 @@ gem 'uglifier'
 gem 'execjs'
 gem 'mini_racer', platforms: :ruby
 gem 'bootstrap-sass'
-gem 'haml', '4.1.0.beta.1' # LOCKED DOWN 3/27/2019
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'overcommit'
