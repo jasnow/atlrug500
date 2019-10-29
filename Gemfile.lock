@@ -487,7 +487,6 @@ DEPENDENCIES
   haml (= 4.1.0.beta.1)
   haml-rails
   hassle3
-  html2haml
   jbuilder
   jquery-rails
   kgio
