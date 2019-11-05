@@ -94,7 +94,7 @@ GEM
       cucumber-tag_expressions (~> 1.1.0)
       gherkin (~> 5.0)
     cucumber-expressions (6.0.1)
-    cucumber-rails (1.8.0)
+    cucumber-rails (2.0.0)
       capybara (>= 2.12, < 4)
       cucumber (>= 3.0.2, < 4)
       mime-types (>= 2.0, < 4)
