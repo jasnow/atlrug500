@@ -246,7 +246,7 @@ GEM
     mime-types-data (3.2019.1009)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    mini_racer (0.2.6)
+    mini_racer (0.2.8)
       libv8 (>= 6.9.411)
     minitest (5.13.0)
     multi_json (1.14.1)
@@ -457,7 +457,7 @@ GEM
     websocket-extensions (0.1.4)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yt (0.32.4)
+    yt (0.32.5)
       activesupport
     zonebie (0.6.1)
 
